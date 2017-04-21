@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Core
+namespace Core.Biz
 {
     public class Class1
     {
